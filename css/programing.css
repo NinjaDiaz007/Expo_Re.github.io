@@ -118,6 +118,29 @@ p,li{
 	top: 50%;
 	transform: translate(-50%, -50%);
 }
+
+.referencia .cuerpo{
+	width: 80%;
+	height: 80%;
+	background-color: #2a283d;
+	color: #e4e4e2;
+	border-radius: 10px;
+	padding: 2% 0 0 3%;
+	position: relative;
+}
+.referencia .cuerpo h2{
+	font-size: 30px;
+}
+.referencia .cuerpo p{
+	font-family: 'times new roman';
+	font-size: 16px;
+}
+.referencia .cuerpo p > a{
+	color: #e2e2e2;
+}
+.referencia .cuerpo p > a:hover{
+	color: #eee233;
+}
 /*=============================================*/
 
 /*=============================================*/
